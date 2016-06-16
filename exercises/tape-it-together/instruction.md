@@ -13,7 +13,7 @@ Write tests that output `TAP`, that tests the following properties of a function
 ## Hints
 
 Testing with `assert` still has some downsides. Even though we don't have to
-check all the values ourself like in the first level, but now we only get not
+check all the values ourselves like in the first level, but now we only get not
 very readable errors when something is wrong. Otherwise our tests don't do
 anything. Maybe we still would like to see some information that everything is
 ok.
